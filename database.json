@@ -1,0 +1,19 @@
+{
+  "Usuarios": [
+    {
+      "nombre": "Michel",
+      "email": "michellaiton@sena.edu.co",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "Productos": [
+    {
+      "id": "1",
+      "nombre": "Doritos Familiar",
+      "precio": "25000",
+      "categoria": "Paquetes",
+      "region": "colombia"
+    }
+  ]
+}
